@@ -1,2 +1,2 @@
 # Staj_Takip_Sistemi
-Yazılım Mühendisliği Dönem Projesi
+Bursa Teknik Üniversitesi Bilgisayar Mühendisliği Bölümü Yazılım Mühendisliği Dersi Dönem Projesi
