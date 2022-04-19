@@ -1,0 +1,24 @@
+Modüller :
+1)Profil Doldurma
+2)Başvuru
+3)Dijital Rapor
+4)Değerlendirme
+
+Özet Fonksiyonlar Ve Gereksinimler :
+Firma kendini sisteme tanıtır,stajyer başvurusu(hangi bölümden kaç kişi veya gereksinimlerini) girer.
+Staj sorumlusu öğrencileri sisteme ekler.
+Öğrenci sisteme giriş yapar ve profilini doldurur(kişisel bilgiler,eğitim bilgileri,sertifika,projeleri)
+Staj sorumluları firmalara onay verir.
+Öğrenci Staj Sorumlusunun onayladığı firmaları görür ve başvuru yapabilir.
+Firma staj ilanına başvuranları görür ve red veya onay verir.
+Öğrenci, firmadan gelen sonucu görür. Birçok firmadan onay gelirse öğrenciye seçime hakkı sunar.
+Seçtiği firmayı staj sorumlusuna iletir ve bu esnada hangi tarihlerde yapacağını da bildirir.Başvuruda değişiklik yapılabilir.
+Staj sorumlusu, öğrencilerinin onaylarını görüntüleyebilir.
+Öğrenci Günlük staj defteri doldurur.
+Öğrenci stajını bitirdikten firma öğrencinin yazdığı staj defterini onaylar.Değerlendirme formunu doldurur ve staj sorumlusuna iletir.
+Firma, öğrenciye stajını tamamladığı için katılım belgesi verir.
+Staj sorumlusu öğrencinin staj defterini kontrol eder ve notlandırma yapar.
+Öğrenci sistemden staj puanını öğrenir.
+
+
+ 
